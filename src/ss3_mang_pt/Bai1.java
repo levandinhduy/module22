@@ -31,7 +31,7 @@ public class Bai1 {
         }
         else
         {
-            System.out.println("Khong tim thay X trong mang!");
+            System.out.println("Khong tim thay X trong mang");
         }
 
     }
