@@ -14,14 +14,11 @@ public class Main {
         c.resize(percent);
         System.out.println("Dien tich sau: " + c.getArea());
 
-        System.out.println("-------------------");
 
         System.out.println("HINH CHU NHAT");
         System.out.println("Dien tich truoc: " + r.getArea());
         r.resize(percent);
         System.out.println("Dien tich sau: " + r.getArea());
-
-        System.out.println("-------------------");
 
         System.out.println("HINH VUONG");
         System.out.println("Dien tich truoc: " + s.getArea());
